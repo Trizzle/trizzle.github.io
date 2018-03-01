@@ -185,7 +185,7 @@ hr {
     text-align: center;
 }
 .navbar-default .navbar-brand img {
-    color: rgba(254, 209, 54, 0);
+    color: rgba(35, 211, 59, 0);
     margin-top: -10px;
 }
 .navbar-default .navbar-brand:hover,
@@ -194,7 +194,7 @@ hr {
 .navbar-default .navbar-brand.active { color: #23d33b }
 .navbar-default .navbar-collapse { border-color: rgba(255,255,255,.02) }
 .navbar-default .navbar-toggle {
-    border-color: #fed136;
+    border-color: #23d33b;
     background-color: transparent;
 }
 .navbar-toggle {
@@ -216,7 +216,7 @@ hr {
     margin-top: -15px;
 }
 .navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus { background-color: #fed136 }
+.navbar-default .navbar-toggle:focus { background-color: #23d33b }
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: Futura, "Trebuchet MS", Arial, sans-serif;
@@ -228,7 +228,7 @@ hr {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #fed136;
+    color: #23d33b;
 }
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
@@ -869,7 +869,7 @@ figure.effect-portfolio:hover p {
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
 }
-figure.effect-portfolio:hover h2 { color: #fed136 }
+figure.effect-portfolio:hover h2 { color: #23d33b }
 figure.effect-portfolio:hover figcaption::after,
 figure.effect-portfolio:hover h2,
 figure.effect-portfolio:hover p,
@@ -1019,7 +1019,7 @@ figure.effect-portfolio:hover img {
     -webkit-font-smoothing: antialiased !important;
 }
 #subscribe span.btn:hover {
-    color: #fed136;
+    color: #23d33b;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -1040,7 +1040,7 @@ figure.effect-portfolio:hover img {
     color: #fff;
 }
 #subscribe span.right:hover {
-    border: 1px solid #fed136;
+    border: 1px solid #23d33b;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
