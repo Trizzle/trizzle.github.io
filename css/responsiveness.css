@@ -1,14 +1,9 @@
 /*=======================
-Theme: Awesome Photography/Portfolio Template
-This is the Style for Responsiveness
-Author: JLP Media
-Email: jennpereira13@gmail.com / lianplameras@gmail.com
-Version: 1.00 
-Date Created: August 10, 2014
-Updated: Feb. 13, 2015
+Author: Grexsys, LLC
+Version: 3.0
 =======================*/
 /* MAX 1080px */
-@media (max-width: 1080px) { 
+@media (max-width: 1080px) {
     h1 { font-size: 5em }
     .carousel-control.right img,
     .carousel-control.left img { width: 50px }
@@ -23,7 +18,7 @@ Updated: Feb. 13, 2015
     }
 }
 /* MAX 768px */
-@media (max-width: 768px) { 
+@media (max-width: 768px) {
     .about-content {
         padding-top: 140px;
         text-align: center;
@@ -43,7 +38,7 @@ Updated: Feb. 13, 2015
     #video .header-text-overlay { top: 10% !important }
 }
 /* MIN 768px */
-@media (min-width: 768px) { 
+@media (min-width: 768px) {
     #comments { margin-right: 35px }
     .comment-avatar {
         width: 100px;
@@ -52,7 +47,7 @@ Updated: Feb. 13, 2015
     .commentlist ul { margin-left: 100px }
 }
 /* MAX 720px */
-@media (max-width: 720px) { 
+@media (max-width: 720px) {
     .portfolio-modal .modal-content img {
         margin-bottom: 30px;
         max-width: 100%;
@@ -66,10 +61,10 @@ Updated: Feb. 13, 2015
 }
 
 /* MAX 620px */
-@media (max-width: 620px) { 
-    #banner .img-responsive, .thumbnail > img, 
-    #banner .thumbnail a > img, 
-    #banner .carousel-inner > .item > img, 
+@media (max-width: 620px) {
+    #banner .img-responsive, .thumbnail > img,
+    #banner .thumbnail a > img,
+    #banner .carousel-inner > .item > img,
     #banner .carousel-inner > .item > a > img {
         width: -webkit-calc(100% + 80px);
         width: calc(100% + 80px);
@@ -78,7 +73,7 @@ Updated: Feb. 13, 2015
     }
 }
 /* MAX 560px */
-@media (max-width: 560px) { 
+@media (max-width: 560px) {
     .vision-border {
         width: 90%;
     }
@@ -91,10 +86,10 @@ Updated: Feb. 13, 2015
 }
 
 /* MAX 460px */
-@media (max-width: 460px) { 
-    #banner .img-responsive, .thumbnail > img, 
-    #banner .thumbnail a > img, 
-    #banner .carousel-inner > .item > img, 
+@media (max-width: 460px) {
+    #banner .img-responsive, .thumbnail > img,
+    #banner .thumbnail a > img,
+    #banner .carousel-inner > .item > img,
     #banner .carousel-inner > .item > a > img {
         width: -webkit-calc(100% + 240px);
         width: calc(100% + 240px);
@@ -165,13 +160,13 @@ Updated: Feb. 13, 2015
     .vision-border {
         width: 80%;
     }
-    
+
 }
 /* MAX 320px */
-@media (max-width: 340px) { 
-    #banner .img-responsive, .thumbnail > img, 
-    #banner .thumbnail a > img, 
-    #banner .carousel-inner > .item > img, 
+@media (max-width: 340px) {
+    #banner .img-responsive, .thumbnail > img,
+    #banner .thumbnail a > img,
+    #banner .carousel-inner > .item > img,
     #banner .carousel-inner > .item > a > img {
         width: -webkit-calc(100% + 240px);
         width: calc(100% + 240px);
